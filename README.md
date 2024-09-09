@@ -5,16 +5,16 @@
 Порядок установки:
 1) Распакуйте архив app.zip
 <p align="center">
-  <img width="" height="" src="/media/app_install.png">
+  <img width="" height="" src="/media/app install.png">
 </p>
 2) Запустите setup.exe
 3) В окне с предупреждением выберите "Install"
 <p align="center">
-  <img width="" height="" src="/media/app_install2.png">
+  <img width="" height="" src="/media/app install2.png">
 </p>
 4) Сразу после установки откроется приложение
 <p align="center">
-  <img width="" height="" src="/media/app_install3.png">
+  <img width="" height="" src="/media/app install3.png">
 </p>
 
 
