@@ -2,12 +2,12 @@
 Пример сборки РЧИ для ПКР на основе блоков СВЧ КИТ
 
 
-Порядок установки:
+## Порядок установки:
 1) Распакуйте архив app.zip
 <p align="center">
   <img width="" height="" src="/media/app install.png">
 </p>
-2) Запустите setup.exe
+2) Запустите setup.exe\
 3) В окне с предупреждением выберите "Install"
 <p align="center">
   <img width="" height="" src="/media/app install2.png">
@@ -18,12 +18,12 @@
 </p>
 
 
-Порядок прошивки:
+## Порядок прошивки:
 1) Распакуйте архив 
 <p align="center">
   <img width="" height="" src="/media/firmware.png">
 </p>
-2) Запустите приложение Keil uVision5 и откройте проект, выбрав файл Blank.uvprojx
+2) Запустите приложение Keil uVision5 и откройте проект, выбрав файл Blank.uvprojx\
 3) Зайдите в настройки проекта, открыв "Options for target" в меню "Project" 
  <p align="center">
   <img width="" height="" src="/media/firmware2.png">
