@@ -23,7 +23,7 @@
 <p align="center">
   <img width="" height="" src="/media/firmware.png">
 </p>
-2) Запустите приложение Keil uVision5 и откройте проект, выбрав файл Blank.uvprojx  
+2) Запустите приложение Keil uVision5 и откройте проект, выбрав файл Blank.uvprojx <br>
 3) Зайдите в настройки проекта, открыв "Options for target" в меню "Project"<br>
  <p align="center">
   <img width="" height="" src="/media/firmware2.png">
