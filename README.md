@@ -7,7 +7,7 @@
 <p align="center">
   <img width="" height="" src="/media/app install.png">
 </p>
-2) Запустите setup.exe  
+2) Запустите setup.exe<br>
 3) В окне с предупреждением выберите "Install"
 <p align="center">
   <img width="" height="" src="/media/app install2.png">
@@ -24,7 +24,7 @@
   <img width="" height="" src="/media/firmware.png">
 </p>
 2) Запустите приложение Keil uVision5 и откройте проект, выбрав файл Blank.uvprojx  
-3) Зайдите в настройки проекта, открыв "Options for target" в меню "Project" 
+3) Зайдите в настройки проекта, открыв "Options for target" в меню "Project"<br>
  <p align="center">
   <img width="" height="" src="/media/firmware2.png">
 </p>
