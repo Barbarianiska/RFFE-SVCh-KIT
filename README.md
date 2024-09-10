@@ -4,7 +4,7 @@
 
 
 ## Порядок прошивки:
-1) Распакуйте архив 
+1) Распакуйте архив MCC01B.zip
 <p align="center">
   <img width="" height="" src="/media/firmware.png">
 </p>
